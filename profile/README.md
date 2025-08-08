@@ -1,4 +1,4 @@
-# 🌐 AISoftDevs 
+# AISoftDevs 
 
 **Automating Businesses with AI**
 
@@ -7,7 +7,7 @@ From intelligent agents to full-fledged SaaS platforms, we build **smart, scalab
 
 ---
 
-## 💼 What We Offer
+## What We Offer
 
 🔹 **AI Agents & Automation** – Streamline workflows, reduce manual tasks, and enhance decision-making.  
 🔹 **Custom SaaS Development** – Build powerful, scalable platforms for global markets.  
@@ -16,7 +16,7 @@ From intelligent agents to full-fledged SaaS platforms, we build **smart, scalab
 
 ---
 
-## 🚀 Our Mission
+## Our Mission
 
 > **To simplify and accelerate business operations through AI and clean engineering.**  
 > Whether you're building an MVP or automating complex workflows, AISoftDevs is your strategic development partner.
@@ -29,7 +29,7 @@ From intelligent agents to full-fledged SaaS platforms, we build **smart, scalab
 
 ---
 
-## 🏆 Why Businesses Choose Us
+## Why Businesses Choose Us
 
 - **AI-First Approach** – Every solution is designed with intelligence and automation at its core.  
 - **Scalability Built-In** – Architecture that grows with your business.  
