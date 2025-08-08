@@ -23,7 +23,7 @@ From intelligent agents to full-fledged SaaS platforms, we build **smart, scalab
 
 ## Founder
 
-> Sarmad Rafique is the Founder of AISoftDevs. He is a Full Stack Engineer and a SAAS development expert.
+> Sarmad Rafique is the Founder of AISoftDevs. He is a Full Stack Engineer and SAAS development expert.
 
 - [Sarmad Rafique](https://github.com/Sarmad426)
 
